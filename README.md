@@ -1,5 +1,7 @@
 # Hackathon 2/Project 4: Hotdog or Not Hotdog
 
+This was the product of a 1 day hackathon  to create an app using neural nets to determine whether a photo was of a hotdog or not. The hackathon was inspired by the food app on the hit series Silicon Valley...
+
 ## The Team: Group 2
 
 Ben Moss: Initial Model Setup, Repo Management, Transfer Learning
